@@ -1,4 +1,5 @@
 # Branch naming rules
+# Test
 <img alt="GitHub Actions status" src="https://github.com/deepakputhraya/action-pr-title/workflows/main/badge.svg">
 
 Github action to enforce Pull Request title conventions
